@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/BuildingBlocks/">
+    <Project Path="BuildingBlocks/Articles.Abstractions/Articles.Abstractions.csproj" Id="b875da81-123d-4286-9af6-ecefda045018" />
+    <Project Path="BuildingBlocks/Blocks.Domain/Blocks.Domain.csproj" Id="ed1f41cc-9f8f-4859-85be-9db776884eaa" />
+    <Project Path="BuildingBlocks/Blocks.EntityFramework/Blocks.EntityFramework.csproj" Id="774b2091-db75-42ab-b118-d9812c7bbd5d" />
+  </Folder>
+  <Folder Name="/Services/" />
+  <Folder Name="/Services/Submission/">
+    <Project Path="Services/Submission/Submission.Application/Submission.Application.csproj" Id="4a0bbd51-dfb2-40d2-82c6-326ad5afaaa1" />
+    <Project Path="Services/Submission/Submission.Domain/Submission.Domain.csproj" Id="8d9bad49-5c03-4966-ac0b-6f37a4a38048" />
+    <Project Path="Services/Submission/Submission.Persistence/Submission.Persistence.csproj" Id="0a1f84d0-331a-4e2b-8c85-f43feeeca530" />
+    <Project Path="Services/Submission/SubmissionAPI/SubmissionAPI.csproj" Id="c46c082a-d449-491a-8d96-49f2aa4b7cbd" />
+  </Folder>
+</Solution>
